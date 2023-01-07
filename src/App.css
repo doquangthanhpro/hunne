@@ -1,0 +1,140 @@
+
+.dau{
+  background-color: green;
+
+}
+.img{
+  position: absolute;
+  padding-top: 20px;
+  padding-left: 150px;
+  
+}
+img{
+  padding: 10px;
+  border-style: groove ;
+  border-color: white;
+}
+.text1{
+  
+  padding: 10px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.info a{
+  padding-right: 200px;
+}
+.info {
+  padding: 20px 0px;
+  border-style: groove none;
+  border-color: black;
+  padding-left: 150px;
+}
+i{
+  padding-right: 5px;
+}
+.thongtin{
+  padding: 0px 150px;
+}
+.kynang{
+  padding-top: 20px;
+  position: absolute;
+}
+.a11{
+  background-color: aqua;
+  padding-left: 300px;
+  margin-left: 60px;
+}
+.a12{
+  background-color: aqua;
+  padding-left: 200px;
+  margin-left: 70px;
+}
+.a13{
+  background-color: aqua;
+  padding-left: 150px;
+  margin-left: 82px;
+}
+.a14{
+  background-color: aqua;
+  padding-left: 200px;
+  margin-left: 45px;
+}
+
+.b11{
+  background-color: rgb(147, 145, 145);
+  padding-left: 100px;
+}
+.b12{
+  background-color: rgb(147, 145, 145);
+  padding-left: 200px;
+}
+.b13{
+  background-color: rgb(147, 145, 145);
+  padding-left: 250px;
+}
+.b14{
+  background-color: rgb(147, 145, 145);
+  padding-left: 200px;
+}
+.cc{
+  margin-top: 60px;
+  padding-left: 800px;
+}
+.cc h5{
+  color: green;
+}
+.hv{
+  margin-top: 50px;
+  position: absolute;
+}
+.hv h4{
+  color: green;
+}
+.knlv{
+  margin-top: 80px;
+  padding-left: 800px;
+}
+.knlv h3{
+color: green;
+}
+
+.hd{
+  margin-top: 30px;
+  position: absolute;
+}
+.hd h3{
+  color: green;
+}
+.ctcn{
+  margin-top: 80px;
+  padding-left: 800px;
+}
+.ctcn h2{
+  color: green;
+}
+
+.gt{
+  margin-top: 100px;
+  /* position: absolute; */
+}
+.gt h3{
+  color: green;
+}
+
+.st{
+  margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
