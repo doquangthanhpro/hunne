@@ -58,7 +58,7 @@ function App() {
       {/* view element */}
       <div className="thongtin">
         <div className="tt1">
-          <h2>MỤC TIÊU NGHỀ NGHIỆP</h2>
+          <h2 className="font-bold">MỤC TIÊU NGHỀ NGHIỆP</h2>
           <p>
             Mong muốn trở thành một PM lead team 10 nhân sự để nâng cấp các sản
             phẩm chạy nhanh và ổn định hơn cho công ty . Ngoài ra , tôi còn mong
@@ -68,7 +68,7 @@ function App() {
         </div>
 
         <div className="kynang">
-          <h2>Kỹ Năng</h2>
+          <h2 className="font-bold">Kỹ Năng</h2>
           <button
           className="absolute mt-[180px] ml-[530px] bg-red-700 px-4 "
             onClick={() => {
@@ -99,36 +99,36 @@ function App() {
           </h5>
         </div>
         <div className="cc">
-          <h2>Chứng Chỉ </h2>
+          <h2 className="font-bold">Chứng Chỉ </h2>
           {chungchi.map((e, i) => {
             return <h5 key={i}>{e.title}</h5>;
           })}
         </div>
         <div className="hv">
-          <h2>HỌC VẤN </h2>
+          <h2 className="font-bold">HỌC VẤN </h2>
           <h3>Chuyên Ngành Công Nghệ Tông Tin </h3>
           <h4>Cao Đẳng FPT poly</h4>
           <h5>Tốt NGhiệp Loại Giỏi, Điểm Trung Bình 8.0</h5>
         </div>
         <div className="knlv">
-          <h2>Kinh Nghiệm Làm Việc </h2>
+          <h2 className="font-bold">Kinh Nghiệm Làm Việc </h2>
           <h3>SENIOR DEVELOPER </h3>
           <h4>Công Ty Công Nghệ B</h4>
           <h5>Thực hiện các dự án PHP</h5>
         </div>
         <div className="hd">
-          <h2>Hoạt Động </h2>
+          <h2 className="font-bold">Hoạt Động </h2>
           <h3>Thành Viên </h3>
           <h4>Tham Gia Học Tại Trường FPT POLY</h4>
           <h5>Cùng Team Đạt Giải</h5>
         </div>
         <div className="ctcn">
-          <h2>JUNIOR DEVELOPER </h2>
+          <h2 className="font-bold">JUNIOR DEVELOPER </h2>
           <h3>Công Ty Công Nghệ B</h3>
           <h5>Thực hiện các dự án big data </h5>
         </div>
         <div className="gt">
-          <h2>Giải Thưởng </h2>
+          <h2 className="font-bold">Giải Thưởng </h2>
           <h3>Nhân Viên Xuất Sắc Nhắt Công Ty FPOLY </h3>
         </div>
         <div className="st">
